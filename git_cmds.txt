@@ -1,8 +1,0 @@
-git init;初始化一个 Git 仓库
-git add <filename>
-git commit;添加文件到仓库
-git status;查看工作去状态
-git log;显示从最近到最远的提交日志
-git log --pretty=oneline;显示更容易阅读的提交日志
-git reset --hard <commit_id>;指定回到未来的某个版本
-git reflog;查看历史命令
